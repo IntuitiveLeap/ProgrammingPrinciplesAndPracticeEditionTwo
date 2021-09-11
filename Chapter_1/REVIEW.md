@@ -71,13 +71,28 @@
     - The web browser on my PC is connecting to a web-server on the other end, which is probably also connected to one or more database servers, which are probably all housed inside a domain with it's own internal devices and servers such as DNS, possibly routed through a proxy server, all of which are probably connected to an NTP server for current time services, etc...
 
 2. `Pick a profession, preferably one that you have some interest in or some knowledge of. Make a list of activities done by people in that profession that involve computers.`
-    - 
+    - Job: Laboratory Technician
+    - polling sensors to collect real-time data
+    - collecting the aforementioned data into a database(s)
+    - cleaning or munging the data
+    - analyzing the data
+    - generating reports from the data
+    - distributing reports to concerned parties
+    - tracking periodic maintenance
+    - calibrating devices
+    - recording calibration events
+    - documenting test methods
+    - preparing schedules
+    - generating presentations
+    - delivering presentations
+    - communications
+    - etc ...
 
 3. `Swap your list from exercise 2 with a friend who picked a different profession and improve his or her list. When you have both done that, compare your results. Remember: There is no perfect solution to an open-ended exercise; improvements are always possible.`
-    - 
+    - n/a
 
 4. `From your own experience, describe an activity that would not have been possible without computers.`
-    - 
+    - n/a
 
 5. `Make a list of programs (software applications) that you have directly used. List only examples where you obviously interact with a program (such as when selecting a new song on an MP3 player) and not cases where there just might happen to be a computer involved (such as turning the steering wheel of your car).`
     - Anaconda
@@ -201,25 +216,25 @@
     - etc ...
 
 6. `Make a list of ten activities that people do that do not involve computers in any way, even indirectly. This may be harder than you think!`
-    - 
+    - n/a
 
 7. `Identify five tasks for which computers are not used today, but for which you think they will be used at some time in the future. Write a few sentences to elaborate on each one that you choose.`
-    - 
+    - n/a
 
 8. `Write an explanation (at least 100 words, but fewer than 500) of why you would like to be a computer programmer. If, on the other hand, you are convinced that you would not like to be a programmer, explain that. In either case, present well-thought-out, logical arguments.`
-    - 
+    - n/a
 
-9.  `Write an explanation (at least 100 words, but fewer than 500) of what role other than programmer you’d like to play in the computer industry (independently of whether “programmer” is your first choice).`
-    - 
+9. `Write an explanation (at least 100 words, but fewer than 500) of what role other than programmer you’d like to play in the computer industry (independently of whether “programmer” is your first choice).`
+    - n/a
 
 10. `Do you think computers will ever develop to be conscious, thinking beings, capable of competing with humans? Write a short paragraph (at least 100 words) supporting your position.`
-    - 
+    - n/a
 
 11. `List some characteristics that most successful programmers share. Then list some characteristics that programmers are popularly assumed to have.`
-    - 
+    - n/a
 
 12. `Identify at least five kinds of applications for computer programs mentioned in this chapter and pick the one that you find the most interesting and that you would most likely want to participate in someday. Write a short paragraph (at least 100 words) explaining why you chose the one you did.`
-    - 
+    - n/a
 
 13. `How much memory would it take to store (a) this page of text, (b) this chapter, (c) all of Shakespeare’s work? Assume one byte of memory holds one character and just try to be precise to about 20%.`
     - this page of text is ~10 KB
