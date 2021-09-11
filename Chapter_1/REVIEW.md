@@ -7,7 +7,7 @@
 1. What is software?
     - Software is a program(s), running on a system and being used by people.
 2. Why is software important?
-    - Software is running our lives in many cases. Ensuring sufficient supply of groceries in a given region, for example. Making sure our map application can accurately show our current location and which way to turn next. Software developed the current generation of life-saving drugs and is involved in generating the next generation of these. Software is allowing your vehicle to run at high efficiency.
+    - Software is running our lives in many cases. Ensuring sufficient supply of groceries in a given region, for example. Making sure our map application can accurately show our current location and which way to turn next to get to our destination. Software developed the current generation of life-saving drugs and is involved in generating the next generation of these. Software is allowing your vehicle to run at high efficiency and in many cases, to run at all.
 3. Where is software important?
     - I do not think there is an area of human life that isn't impacted by the use of software to some degree.00
 4. What could go wrong if some software fails? List some examples.
