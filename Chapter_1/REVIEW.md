@@ -80,7 +80,125 @@
     - 
 
 5. `Make a list of programs (software applications) that you have directly used. List only examples where you obviously interact with a program (such as when selecting a new song on an MP3 player) and not cases where there just might happen to be a computer involved (such as turning the steering wheel of your car).`
-    - 
+    - Anaconda
+    - Excel
+    - Word
+    - Python 2
+    - Python 3
+    - GCC
+    - GDB
+    - Calibre
+    - VLC
+    - Chrome
+    - Firefox
+    - Edge
+    - CMD
+    - Powershell
+    - Vim
+    - VScode
+    - Visual Studio
+    - Spyder
+    - PyCharm
+    - IntelliJ
+    - Clion
+    - Racket
+    - hyper-V
+    - VirtualBox
+    - VMware
+    - Windows OSes
+    - Linux OSes
+    - Terminal
+    - htop
+    - ping
+    - ltrace
+    - netstat
+    - MS DOS
+    - fdisk
+    - Mathematica
+    - NetBeans
+    - Eclipse
+    - Games of various kinds
+    - awk
+    - sed
+    - azure
+    - docker
+    - git
+    - github
+    - CodeBlocks
+    - Atom
+    - Studio One
+    - Cakewalk
+    - Notion
+    - Steam
+    - Snipping Tool
+    - Notepad
+    - Blender
+    - puTTY
+    - File Explorer
+    - Audible
+    - Mail
+    - Postman
+    - Calculator
+    - Windows Terminal
+    - Notepad++
+    - QtCreator
+    - emacs
+    - SAP
+    - Power BI
+    - PowerPoint
+    - Access
+    - ssh
+    - Active Directory
+    - Control Panel
+    - Device Manager
+    - Task Manager
+    - VBA(excel)
+    - wget
+    - curl
+    - ftp
+    - dd
+    - Windows Defender
+    - Windows Firewall
+    - regular expressions
+    - libreoffice
+    - Brave
+    - iTunes
+    - Pandora
+    - Podcasts
+    - YouTube
+    - Signal
+    - Messages
+    - Indeed
+    - ZipRecruiter
+    - LinkedIn
+    - GlassDoor
+    - Zoom
+    - Microsoft Teams
+    - Skype
+    - WebEx
+    - Gimp
+    - Image Viewer
+    - TSW! (the software works!)
+    - RUBY Gem
+    - Teamspeak
+    - Mumble
+    - Discord
+    - Slack
+    - VPN
+    - anti-virus (various)
+    - router config
+    - troubleshooter
+    - winrar
+    - winzip
+    - 7zip
+    - Gzip
+    - Tar
+    - valgrind
+    - winamp
+    - Sublime
+    - PostgreSQL
+    - MySQL
+    - etc ...
 
 6. `Make a list of ten activities that people do that do not involve computers in any way, even indirectly. This may be harder than you think!`
     - 
