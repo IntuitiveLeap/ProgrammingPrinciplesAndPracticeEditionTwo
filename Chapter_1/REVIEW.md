@@ -66,33 +66,50 @@
 
 ## Exercises
 
-1. Pick an activity you do most days (such as going to class, eating dinner, or watching television). Make a list of ways computers are directly or indirectly involved.
+1. `Pick an activity you do most days (such as going to class, eating dinner, or watching television). Make a list of ways computers are directly or indirectly involved.`
+    - I often attend classes for IT and other programming related skills. These classes are often accessed by me through a web browser on my computer. I also will often use applications on my PC to either complete assignments or read course materials, such as an IDE to produce code, an interpreter or compiler to run and test the code, a pdf reader or ebook reader application to read course notes or suggested readings, video applications to watch and hear lectures and presentations.
+    - The web browser on my PC is connecting to a web-server on the other end, which is probably also connected to one or more database servers, which are probably all housed inside a domain with it's own internal devices and servers such as DNS, possibly routed through a proxy server, all of which are probably connected to an NTP server for current time services, etc...
 
-2. Pick a profession, preferably one that you have some interest in or some knowledge of. Make a list of activities done by people in that profession that involve computers.
+2. `Pick a profession, preferably one that you have some interest in or some knowledge of. Make a list of activities done by people in that profession that involve computers.`
+    - 
 
-3. Swap your list from exercise 2 with a friend who picked a different profession and improve his or her list. When you have both done that, compare your results. Remember: There is no perfect solution to an open-ended exercise; improvements are always possible.
+3. `Swap your list from exercise 2 with a friend who picked a different profession and improve his or her list. When you have both done that, compare your results. Remember: There is no perfect solution to an open-ended exercise; improvements are always possible.`
+    - 
 
-4. From your own experience, describe an activity that would not have been possible without computers.
+4. `From your own experience, describe an activity that would not have been possible without computers.`
+    - 
 
-5. Make a list of programs (software applications) that you have directly used. List only examples where you obviously interact with a program (such as when selecting a new song on an MP3 player) and not cases where there just might happen to be a computer involved (such as turning the steering wheel of your car).
+5. `Make a list of programs (software applications) that you have directly used. List only examples where you obviously interact with a program (such as when selecting a new song on an MP3 player) and not cases where there just might happen to be a computer involved (such as turning the steering wheel of your car).`
+    - 
 
-6. Make a list of ten activities that people do that do not involve computers in any way, even indirectly. This may be harder than you think!
+6. `Make a list of ten activities that people do that do not involve computers in any way, even indirectly. This may be harder than you think!`
+    - 
 
-7. Identify five tasks for which computers are not used today, but for which you think they will be used at some time in the future. Write a few sentences to elaborate on each one that you choose.
+7. `Identify five tasks for which computers are not used today, but for which you think they will be used at some time in the future. Write a few sentences to elaborate on each one that you choose.`
+    - 
 
-8. Write an explanation (at least 100 words, but fewer than 500) of why you would like to be a computer programmer. If, on the other hand, you are convinced that you would not like to be a programmer, explain that. In either case, present well-thought-out, logical arguments.
+8. `Write an explanation (at least 100 words, but fewer than 500) of why you would like to be a computer programmer. If, on the other hand, you are convinced that you would not like to be a programmer, explain that. In either case, present well-thought-out, logical arguments.`
+    - 
 
-9. Write an explanation (at least 100 words, but fewer than 500) of what role other than programmer you’d like to play in the computer industry (independently of whether “programmer” is your first choice).
+9.  `Write an explanation (at least 100 words, but fewer than 500) of what role other than programmer you’d like to play in the computer industry (independently of whether “programmer” is your first choice).`
+    - 
 
-10. Do you think computers will ever develop to be conscious, thinking beings, capable of competing with humans? Write a short paragraph (at least 100 words) supporting your position.
+10. `Do you think computers will ever develop to be conscious, thinking beings, capable of competing with humans? Write a short paragraph (at least 100 words) supporting your position.`
+    - 
 
-11. List some characteristics that most successful programmers share. Then list some characteristics that programmers are popularly assumed to have.
+11. `List some characteristics that most successful programmers share. Then list some characteristics that programmers are popularly assumed to have.`
+    - 
 
-12. Identify at least five kinds of applications for computer programs mentioned in this chapter and pick the one that you find the most interesting and that you would most likely want to participate in someday. Write a short paragraph (at least 100 words) explaining why you chose the one you did.
+12. `Identify at least five kinds of applications for computer programs mentioned in this chapter and pick the one that you find the most interesting and that you would most likely want to participate in someday. Write a short paragraph (at least 100 words) explaining why you chose the one you did.`
+    - 
 
-13. How much memory would it take to store (a) this page of text, (b) this chapter, (c) all of Shakespeare’s work? Assume one byte of memory holds one character and just try to be precise to about 20%.
+13. `How much memory would it take to store (a) this page of text, (b) this chapter, (c) all of Shakespeare’s work? Assume one byte of memory holds one character and just try to be precise to about 20%.`
+    - this page of text is ~10 KB
+    - this chapter of text is ~100 KB
+    - all of Shakespeare's work might encompass 15 MB of disk
 
-14. How much memory does your computer have? Main memory? Disk?
+14. `How much memory does your computer have? Main memory? Disk?`
+    - The computer I am writing this on has 128 GB of main memory (ram) and about 6 TB of disk storage (some is HDD and some is SSD).
 
 ## Postscript
 
