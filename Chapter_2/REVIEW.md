@@ -3,16 +3,30 @@
 ## Review Questions
 
 1. What is the purpose of the “Hello, World!” program?
+    - This program is used to verify that the installation of the build tools was successful and that the user's system is able to compile, link and run the source code file as well as properly locate any header files. On top of this, the `Hello, World!` program can offer the user some first insights on what errors look like and ways to correct them. It is often the user's first execution of any program they have written, so it can offer a sense of accomplishment.
 2. Name the four parts of a function.
+    - Return type
+    - Function name
+    - Function parameters
+    - Function body
 3. Name a function that must appear in every C++ program.
+    - every C++ program must contain a main function
 4. In the “Hello, World!” program, what is the purpose of the line `return 0;`?
+    - This line of code sends the value `0` back to the caller (in this case the operating system). These return codes can be used to show whether the function executed successfully or if it ran into problems during execution.
 5. What is the purpose of the compiler?
+    - The compiler is used to translate the source code into a machine language that can be executed on the processor(s).
 6. What is the purpose of the #include directive?
+    - #include directives allow us to bring other existing code directly into our code. This is accomplished by essentially copy and pasting the referred to code into the location of the #include on the source code file. Using these directives, we can easily reuse existing code.
 7. What does a .h suffix at the end of a file name signify in C++?
+    - `*.h` files are header files
 8. What does the linker do for your program?
+    - The linker is used to link together different object files needed for the final executable to function properly.
 9. What is the difference between a source file and an object file?
+    - A source file is human readable text, written in a programming language. An object file is the translation result of compiling a source file.
 10. What is an IDE and what does it do for you?
+    - An IDE is an Integrated Development Environment. It offers a text editor with code highlighting and code-completion, debugging and many other testing facilities. Many IDEs include template files for different project types among hundreds of other convenience features.
 11. If you understand everything in the textbook, why is it necessary to practice?
+    - Given enough practice, one can turn understanding into something more akin to muscle-memory, which can be the difference between a good skill level and a great skill level!
 
 ## Terms
 
