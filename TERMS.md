@@ -2,6 +2,24 @@
 
 These terms present the basic vocabulary of programming and of C++. If you want to understand what people say about programming topics and to articulate your own ideas, you should know what each means.
 
+- affordability
+- analysis
+- blackboard
+- CAD/CAM
+- communication
+- correctness
+- customer
+- design
+- feedback
+- GUI
+- ideals
+- implementation
+- programmer
+- programming
+- software
+- stereotype
+- testing
+- user
 - //
   - This is a line comment. This symbol and following text on the same line is ignored by the compiler and is intended for human consumption.
 - <<
