@@ -33,25 +33,45 @@
 These terms present the basic vocabulary of programming and of C++. If you want to understand what people say about programming topics and to articulate your own ideas, you should know what each means.
 
 - //
+  - This is a line comment. This symbol and following text on the same line is ignored by the compiler and is intended for human consumption.
 - <<
+  - Insertion operator. Used to direct data into a receiving object.
 - C++
+  - A higher level, compiled programming language built on top of the C language and including object-oriented facilities.
 - comment
+  - A message written into a source code file that is intended for use specifically by humans and not the compiler.
 - compiler
+  - A program that translates a higher-level, human-readable language into machine readable language. Also provides type and syntax checking.
 - compile-time error
+  - An error that occurs during the compilation process.
 - cout
+  - A function made available by including the std_lib_facilities.h file
 - executable
+  - The final result of successful compilation and linking. This type of file can be run by the machine directly.
 - function
+  - A reusable piece of code containing a return type, name, parameters and a body.
 - header
+  - A file that can be used inside another source file by means of the #include directive.
 - IDE
+  - An Integrated Development Environment. Usually includes a text editor, debugging facilities, formatting assistance, code highlighting, code completion, etc...
 - "#include"
+  - The "#include" directive. Commands the pre-processor to copy the file and paste it into the source file in the place of the directive.
 - library
+  - A separate piece of code intended for reuse inside other applications. Often includes task specific classes, functions or utilities.
 - linker
+  - A program that links object files together, resulting in an executable file if successful.
 - main()
+  - A mandatory function for every C++ application. Code execution starts in this function.
 - object code
+  - the result of compiling a single translation unit.
 - output
+  - Results of a running application directed outwards to the user(s) on screen on a printer, speakers, etc...
 - program
+  - A generic word that could refer to a running application, the source code needed to build an application, a .exe file, etc... Also, the set of instructions telling a computer "what to do".
 - source code
+  - Human readable code in a higher-level language such as C++, C or Python.
 - statement
+  - A statement is a section of C++ code that specifies an action and is not a pre-processor directive. Usually ends with a semi-colon.
 
 ## Exercises
 
@@ -69,4 +89,4 @@ These terms present the basic vocabulary of programming and of C++. If you want 
     - Build a glossary of terms used. (What’s a muffin pan? What does preheating do? What do you mean by “oven”?)
     - Now bake some muffins and enjoy your results.
 5. Write a definition for each of the terms from “Terms.” First try to see if you can do it without looking at the chapter (not likely), then look through the chapter to find definitions. You might find the difference between your first attempt and the book’s version interesting. You might consult some suitable online glossary, such as www.stroustrup.com/glossary.html. By writing your own definition before looking it up, you reinforce the learning you achieved through your reading. If you have to reread a section to form a definition, that just helps you to understand. Feel free to use your own words for the definitions, and make the definitions as detailed as you think reasonable. Often, an example after the main definition will be helpful. You may like to store the definitions in a file so that you can add to them from the “Terms” sections of later chapters.
-    - n/a
+    - completed in the Terms section
